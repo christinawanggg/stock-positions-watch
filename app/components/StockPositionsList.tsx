@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import positionTree from '../../ts_position_tree.json';
+import positionTree from '../../ts_position_tree.json'; // replace with any json file you want to display the data of
 import StockPositions from './StockPositions';
 import { Accordion, AccordionItem } from "@nextui-org/react";
 
